@@ -14,7 +14,7 @@ distribution folder empty; 'Rebuild project' with target_link_libraries(hello-li
 -> changing target_link_libraries statement back to target_link_libraries(hello-libs log android lib_gperf lib_gmath lib_newlib) AND bringing back the previously out-commented lines -> Rebuild & Run Successful -> great (even in case of changes in the newlib's source code the library is getting rebuild -> works as expected)
 
 _IN SHORT:_
-builing library 'newlib' in /destination when:
+building library 'newlib' in _/destination_ when:
   - target_link_libraries(hello-libs log android lib_gperf lib_gmath lib_newlib) DOESN'T work
   - target_link_libraries(hello-libs log android lib_gperf lib_gmath ~~lib_newlib~~) DOES work
 
