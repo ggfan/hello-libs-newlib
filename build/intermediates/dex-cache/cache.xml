@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_ac4cfb97a0edd4a14d776e8a57d65e50000d8dd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_d59c6f40bd71b734fe2e76581dc57cf7c0491f07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_eea4597e709fce3228b9e724c697adaa26e7390d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha2/constraint-layout-solver-1.0.0-alpha2.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="d5b32a2a1529a72472729ee5c94779d0ce9951eb">
+        <dex dex="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha2_13379a15b4355af7689b99e030f5271209da85ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurakristina/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_a337b897167f8e0e76f8b1eef43ad0003e991908.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_11bfbf7497332c6483d2ac531e69465a78059e42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_4eeb97be060bafb648af1227d33e6c7d7a9c7263.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha2/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="757a34f5d84a6b77a2bd0ba1affbcd2145329096">
+        <dex dex="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha2_f78fc7b6becc562a049a527dac4b6ce1b3802f82.jar" />
+    </item>
+
+</items>

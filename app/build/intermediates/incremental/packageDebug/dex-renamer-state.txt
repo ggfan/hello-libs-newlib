@@ -1,0 +1,4 @@
+#Wed Jun 08 11:01:02 CEST 2016
+base.0=/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

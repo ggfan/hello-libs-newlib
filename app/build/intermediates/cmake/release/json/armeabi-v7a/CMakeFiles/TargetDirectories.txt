@@ -1,0 +1,4 @@
+/Users/laurakristina/tmp/newlib/CMakeFiles/newlib.dir
+/Users/laurakristina/tmp/gperf/CMakeFiles/gperf.dir
+/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/cmake/release/json/armeabi-v7a/CMakeFiles/hello-libs.dir
+/Users/laurakristina/tmp/gmath/CMakeFiles/gmath.dir

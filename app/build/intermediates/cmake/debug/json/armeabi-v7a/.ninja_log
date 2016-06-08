@@ -1,0 +1,15 @@
+# ninja log v5
+0	66	0	/Users/laurakristina/tmp/gmath/CMakeFiles/gmath.dir/src/gmath.c.o	50c5f299679e5eb6
+66	133	0	/Users/laurakristina/tmp/gmath/libgmath.a	8e7198fd587e03e5
+0	67	0	/Users/laurakristina/tmp/gperf/CMakeFiles/gperf.dir/src/gperf.c.o	3e4ad64dd31f745a
+68	149	0	/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libgperf.so	8d82a6f8ce128d8d
+0	389	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	ef6de199bb8591bd
+389	460	0	/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-libs.so	e42e7c6bd23be80e
+0	222	0	/Users/laurakristina/tmp/newlib/CMakeFiles/newlib.dir/src/newlib.cpp.o	1adf9cde7e7bb58e
+222	354	0	/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnewlib.so	388ca4de8633624c
+0	65	0	/Users/laurakristina/tmp/gperf/CMakeFiles/gperf.dir/src/gperf.c.o	3e4ad64dd31f745a
+65	138	0	/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libgperf.so	8d82a6f8ce128d8d
+0	380	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	ef6de199bb8591bd
+380	446	0	/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-libs.so	e42e7c6bd23be80e
+0	220	0	/Users/laurakristina/tmp/newlib/CMakeFiles/newlib.dir/src/newlib.cpp.o	1adf9cde7e7bb58e
+220	355	0	/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnewlib.so	388ca4de8633624c

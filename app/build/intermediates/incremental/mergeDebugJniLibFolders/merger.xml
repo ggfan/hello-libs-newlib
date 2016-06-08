@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/distribution/newlib/lib"><file name="armeabi-v7a/libnewlib.so" path="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/distribution/newlib/lib/armeabi-v7a/libnewlib.so"/></source></dataSet><dataSet config="debug"><source path="/Users/laurakristina/Desktop/AnotherBrickInTheWall/hello-libs/app/src/debug/jniLibs"/></dataSet></merger>
